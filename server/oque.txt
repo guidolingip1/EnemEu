@@ -1,0 +1,7 @@
+O que eu quero
+Escolher um conteúdo randômico para estudar
+Adicionar conteúdos estudados
+Remover Conteúdos estudados
+Possibilidade de quantidade de vezes estudadas
+Listagem dos conteúdos por quantidade de vezes estudadas
+

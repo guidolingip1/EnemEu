@@ -1,0 +1,88 @@
+.header {
+  height: 250px;
+  width: 100%;
+  background-image: url("enembg.png");
+  background-size: cover;
+  color: hsl(39, 77%, 83%);
+
+  font-size: 110px;
+  -webkit-text-stroke: 4px black;
+  font-family: 'Lobster', cursive;
+  
+  text-align: center;
+  vertical-align: middle;
+  line-height: 250px;
+
+  border-bottom-right-radius: 22px;
+  border-bottom-left-radius: 22px;
+}
+
+.div-item {
+  background-color: #16214e;
+  margin: 10px;
+  
+  color: hsl(39, 77%, 83%);
+
+  font-size: 18px;
+  font-family: 'Lobster', cursive;
+
+  border-radius: 16px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.like-dislike {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  padding: auto;
+}
+
+#like{
+  background-color: rgb(165, 255, 162);
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+
+  font-size: 30px;
+}
+
+#dislike{
+  background-color: rgb(255, 241, 162);
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  
+  font-size: 30px;
+}
+
+.add {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.add button{
+  background-color: #16214e;
+  width: 180px;
+  height: 60px;
+
+  border-radius: 22px;
+  color: hsl(39, 77%, 83%);
+
+  font-size: 18px;
+  font-family: 'Lobster', cursive;
+}
+
+.lista {
+  counter-reset: section;
+}
+
+#conteudo {
+  margin-left: 25px;
+}
+
+#item-quantidade {
+  margin-right: 35px;
+}
