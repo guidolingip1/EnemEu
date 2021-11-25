@@ -1,3 +1,6 @@
+
+![sorteador](https://github.com/guidolingip1/EnemEu/blob/master/esteeee.gif)
+
 ## O que é?
 
 É um projetinho simples que sorteia um conteúdo aleatório do ENEM para a pessoa estudar.
